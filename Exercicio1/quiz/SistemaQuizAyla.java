@@ -1,4 +1,4 @@
-package Execicio1.quiz;
+package Exercicio1.quiz;
 
 import java.util.LinkedList;
 import java.util.List;

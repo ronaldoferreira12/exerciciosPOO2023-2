@@ -1,4 +1,4 @@
-package Execicio1.fibonacci;
+package Exercicio1.fibonacci;
 
 public class Main {
     public static void main(String[] args) {

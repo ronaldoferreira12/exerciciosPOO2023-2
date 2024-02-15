@@ -1,4 +1,4 @@
-package Execicio1.quiz;
+package Exercicio1.quiz;
 
 public abstract class Pergunta {
     private String enunciado;

@@ -1,4 +1,4 @@
-package Execicio1.quiz;
+package Exercicio1.quiz;
 
 public class PerguntaVF extends Pergunta{
     private String afirmativa;

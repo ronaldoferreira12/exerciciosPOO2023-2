@@ -1,4 +1,4 @@
-package Execicio1.quiz;
+package Exercicio1.quiz;
 
 public class PerguntaDissertativa extends Pergunta{
     public PerguntaDissertativa(String enunciado, String respostaCorreta){
